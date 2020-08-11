@@ -1,0 +1,151 @@
+{
+    "items": [
+        {
+            "artist": "Vincent Valemba Gogh",
+            "title": "The Starry Night",
+            "info": "Van Gogh's night sky is a field of roiling energy. Below the exploding stars, the village is a place of quiet order. Connecting earth and sky is the flamelike cypress, a tree traditionally associated with graveyards and mourning. But death was not ominous for van Gogh. Looking at the stars always makes me dream, he said, Why, I ask myself, shouldn't the shining dots of the sky be as accessible as the black dots on the map of France? Just as we take the train to get to Tarascon or Rouen, we take death to reach a star.",
+            "type": "landscape",
+            "image": "../img/g1.jpg"
+        },
+        {
+            "artist": "Vincent Valemba Gogh",
+            "title": "The potato eaters",
+            "info": "Van Gogh deliberately chose a composition which would challenge his growing prowess as a painter. Like the French master Jean-François Millet, Van Gogh wanted to be a true “peasant painter.”This meant Van Gogh tried to paint his subjects with deep feeling, but without sentimentality. He spoke of them leading 'a way of life completely different from ours, from that of civilized people.' He strove to paint the faces, 'the color of a good, dusty potato, unpeeled naturally,' and to convey the idea that these people had 'used the same hands with which they now take food from the plate to dig the earth […] and had thus earned their meal honestly.'",
+            "type": "portrait",
+            "image": "../img/g2.jpg"
+        },
+        {
+            "artist": "Vincent Valemba Gogh",
+            "title": "Cafe Terrace at Forum Square in Arlest",
+            "info": "At the end of the 19th century, when transitioning to an industrial society, the desire for spiritual values ​​led artists to more actively express human inner world. In particular, the Dutch painter Vincent Van Gogh used the scenes he felt strongly emotionally attached to and the people and objects related to him as the subject matter of his work. The so-called'Alres period', which lasted from 1888 when <Café Terrace in Arles' Forum Square> was produced to the following year, left about 200 works in 15 months. It's time. It is also evaluated as a time when his own style, which expressed individual subjective emotions with intense colors and impasto techniques, was firmly established.",
+            "type": "landscape",
+            "image": "../img/g3.jpg"
+        },
+        {
+            "artist": "Vincent Valemba Gogh",
+            "title": "Starry Night",
+            "info": "From the moment of his arrival in Arles, on 8 February 1888, Van Gogh was constantly preoccupied with the representation of night effects. In April 1888, he wrote to his brother Theo: I need a starry night with cypresses or maybe above a field of ripe wheat. In June, he confided to the painter Emile Bernard: But when shall I ever paint the Starry Sky, this painting that keeps haunting me and, in September, in a letter to his sister, he evoked the same subject: Often it seems to me night is even more richly coloured than day. During the same month of September, he finally realised his obsessive project.",
+            "type": "landscape",
+            "image": "../img/g4.jpg"
+        },
+        {
+            "artist": "Vincent Valemba Gogh",
+            "title": "Self-Portrait with Bandaged Ear",
+            "info": "In this self-portrait, Van Gogh is shown wearing a blue cap with black fur and a green overcoat, with a bandage covering his ear and extending under his chin. He is in a traditional three-quarter view, and his forward gaze falls slightly to the right, out of the frame. Behind him is an open window, assumedly letting in a winter breeze, a canvas on an easel, with a few indistinguishable marks, as well as a Japanese woodblock print. This woodblock print has been identified as a Geishas in a Landscape published by Sato Tokyo in the 1870s.[citation needed] This shows an important influence of Japonism and wood block print on Van Gogh's work, which also appear in the background of other portraits he had created.[2] The painting is composed of impasto strokes, mostly in a vertical pattern. This creates a texture, which comes up off the canvas and adds dimension to the flat surface. The skin tone is muted with green and yellowish tones. The bandage covering Van Gogh's ear in this painting alludes to his most famous conflict. Van Gogh used a mirror for his self-portraits which is why some mistakenly think that he lost part of his right ear instead of his left.",
+            "type": "portrait",
+            "image": "../img/g5.jpg"
+        },
+        {
+            "artist": "Keith Haring",
+            "title": "Untitled",
+            "info": "In your imagination",
+            "type": "portrait",
+            "image": "../img/k1.PNG"
+        },
+        {
+            "artist": "Keith Haring",
+            "title": "Untitled",
+            "info": "In your imagination",
+            "type": "portrait",
+            "image": "../img/k2.PNG"
+        },
+        {
+            "artist": "Keith Haring",
+            "title": "The Love",
+            "info": "In your imagination",
+            "type": "portrait",
+            "image": "../img/k3.PNG"
+        },
+        {
+            "artist": "Keith Haring",
+            "title": "Untitled",
+            "info": "In your imagination",
+            "type": "portrait",
+            "image": "../img/k4.PNG"
+        },
+        {
+            "artist": "Keith Haring",
+            "title": "Untitled",
+            "info": "In your imagination",
+            "type": "portrait",
+            "image": "../img/k5.PNG"
+        },
+        {
+            "artist": "Keith Haring",
+            "title": "The shining baby",
+            "info": "In your imagination",
+            "type": "portrait",
+            "image": "../img/k6.PNG"
+        },
+        {
+            "artist": "Leonardo da Vinci",
+            "title": "Salvator Mundi",
+            "info": "It is estimated that Salvatore Mundi was commissioned by Louis XII of France around 1500. It is not known exactly where it has been for 500 years. However, in the 1900s, then British collector Francis Cook bought the work and his descendants sold it for £45 at a Sotheby's London auction in 1958.",
+            "type": "portrait",
+            "image": "../img/r1.jpg"
+        },
+        {
+            "artist": "Leonardo da Vinci",
+            "title": "The Last Supper",
+            "info": "The Last Supper is a painting by Leonardo da Vinci at the request of his patron, Rudovico Sforza. This work depicts the canon of the Last Supper on the Last Day of Jesus in the Catholic Bible. The painting was painted as a mural in the dining room of the Monastery of the Basilica of Santa Maria delle Grazie in Milan. The 880cm-wide and 460cm-long work of the giant Onardo began production in 1495 and was completed in 1498. Although most of the works are one of the few completed works in Leonardo's paintings, which are called unfinished, they are also known as the most damaged paintings.",
+            "type": "portrait",
+            "image": "../img/r2.jpg"
+        },
+        {
+            "artist": "Leonardo da Vinci",
+            "title": "Adoration of the Magi",
+            "info": "The Adoration of the Magi was left unfinished, however it is a work of great conceptual and formal complexity. Probably inspired by the prophecy of Isaiah, this work was commissioned in 1481 by the brothers of Saint Augustine of San Donato a Scopeto, but Leonardo interrupted work on it to leave for Milan in 1482. The brothers then turned to Filippino Lippi who painted a panel of the same subject in 1496 which is also exhibited in this museum. Vasari documents the painting in the home of Amerigo Benci, father of Ginevra whose portrait Leonardo had paintd some years earlier. It came to the Uffizi in 1670; it then went to the Villa di Castello and returned to the Gallery in 1794.",
+            "type": "portrait",
+            "image": "../img/r3.PNG"
+        },
+        {
+            "artist": "Leonardo da Vinci",
+            "title": "The Mona Lisa",
+            "info": "The Mona Lisa is a portrait painted by Leonardo da Vinci during the 16th-century Renaissance, and is now on display at the Louvre Museum in Paris, France. Mona is an Italian honorific title for a married woman's name, and  Lisa is the name of a woman modeled for a portrait. In other words, it means Mrs. Lisa in Korean. Another name for Mona Lisa, La Joconda, means Giocondo's wife in Korean. This work is a portrait of a woman smiling faintly, using the sfumato technique to give the effect of being covered with a pale fog. The composition takes the shape of a pyramid, which was the most basic portrait composition at the time. In addition, the method of placing characters higher than the background is a method commonly used by painters today, but a rare method in the Renaissance period was used.",
+            "type": "portrait",
+            "image": "../img/r4.jpg"
+        },
+        {
+            "artist": "Leonardo da Vinci",
+            "title": "Our Lady of the Rock",
+            "info": "Led by Leonardo da Vinci, co-produced with the Ambrozo des Predis brothers <br> About 1483-1486, collection of the Louvre Museum in Paris <br> The contract between the orderer and the producer of this picture clearly specifies the characters and arrangements, as well as the style of description technique. However, Leonardo did not follow the contract. The background specified to be painted in gold was drawn in a cave, and the characters attempted a novel composition that was confined in a triangle. Also, he didn't draw a halo on his head. Of course, it did not meet the wishes of the orderer, and there was a problem of the amount of payment.",
+            "type": "portrait",
+            "image": "../img/r5.jpg"
+        },
+        {
+            "artist": " Johannes Vermeer",
+            "title": "Girl with a Pearl Earring",
+            "info": "Girl with a Pearl Earring is Vermeer’s most famous painting. It is not a portrait, but a ‘tronie’ – a painting of an imaginary figure. Tronies depict a certain type or character; in this case a girl in exotic dress, wearing an oriental turban and an improbably large pearl in her ear.<br>Johannes Vermeer was the master of light. This is shown here in the softness of the girl’s face and the glimmers of light on her moist lips. And of course, the shining pearl.",
+            "type": "portrait",
+            "image": "../img/y1.jpg"
+        },
+        {
+            "artist": " Johannes Vermeer",
+            "title": "The milkmaid",
+            "info": "Intent on her task, the kitchen maid pours milk from a jug. The composition radiates a quiet calm, the only movement being the flow of milk into the bowl. Its most exceptional feature is the rendering of light. The tiny dots representing the reflection of light - as in the br eadrolls on the table - are typical of Vermeer's technique. This painting is a high point within Vermeer's oeuvre. Of the thirty or so works he produced, four are in the Rijksmuseum. From the collections of J. Dissius (Delft), L. P. de Neufville, H. Muilman, L. van Winter and J. Six (Amsterdam), among others. Purchased with the support of the Vereniging Rembrandt from the heirs of J.H. Six van Vromade, 1908.",
+            "type": "portrait",
+            "image": "../img/y2.jpg"
+        },
+        {
+            "artist": " Johannes Vermeer",
+            "title": "The Procuress",
+            "info": "In The Procuress, Vermeer applied the large-scale figures of his early history scenes to the subject of genre painting.",
+            "type": "portrait",
+            "image": "../img/y3.jpg"
+        },
+        {
+            "artist": " Johannes Vermeer",
+            "title": "The Art of Painting",
+            "info": "The painter himself probably gave this large-format interior its title. In 1663 and 1670 Vermeer was chairman of the Artists’ Guild of St. Luke, but if the painting was intended as programmatic gift to the guild as an allegorical depiction of the arts and trades represented in that organisation, it was never presented to its intended owners: The Art of Painting is mentioned in the inventory of Vermeer’s estate. It is highly likely that he used the painting to demonstrate his mastery of this art. The drawn-back curtain opens a view of a room that is bathed in light from a window on the left (not visible in the picture). On the back wall is a detailed map of the Netherlands. In the foreground a chair and the table behind it, covered with various articles, direct the viewer’s gaze to the middle distance. His back towards the viewer, the painter sits at his easel; he has begun work on a half-length portrait of the girl standing at the window. Thus painting occupies the most prominent place among the arts. The articles on the table represent sculpture (plaster cast), art printing (book) and tapestry weaving (fabrics). But what is the meaning of the model the artist is painting? The female figure is holding a trumpet and a book in her hands and is wearing a laurel wreath in her hair. Thus she is Clio, the Muse of history. Classical art theory considered history to be the primary subject of painting, but Vermeer subtly resists this doctrine, which in any case was almost irrelevant in the Dutch art market. With great painterly assertion, he raises this “inferior” interior to the ranks of highe start and lends this view of a painter’s work the qualities of an allegory. With his perfect balance of pictorial elements, poetic tranquillity and great sensuality of colour, the artist creates an atmosphere of enormous elegance and harmony. In order to accurately depict interior spaces, Vermeer used various technical aids, which probably included the forerunner of the modern camera, the cameraobscura. © Cäcilia Bischoff, Masterpieces of the Picture Gallery. A Brief Guide to the Kunsthistorisches Museum, Vienna 2010",
+            "type": "portrait",
+            "image": "../img/y4.jpg"
+        },
+        {
+            "artist": " Johannes Vermeer",
+            "title": "The Astronomer",
+            "info": "The Astronomer is a painting finished in about 1668 by the Dutch painter Johannes Vermeer. It is oil on canvas, 51 cm × 45 cm, and is on display at the Louvre, in Paris, France.<br> Portrayals of scientists were a favourite topic in 17th-century Dutch painting and Vermeer's oeuvre includes both this astronomer and the slightly later The Geographer. Both are believed to portray the same man, possibly Antonie van Leeuwenhoek. A 2017 study indicated that the canvas for the two works came from the same bolt of material, confirming their close relationship.<br> The astronomer's profession is shown by the celestial globe (version by Jodocus Hondius) and the book on the table, the 1621 edition of Adriaan Metius's Institutiones Astronomicae Geographicae. Symbolically, the volume is open to Book III, a section advising the astronomer to seek inspiration from God and the painting on the wall shows the Finding of Moses—Moses may represent knowledge and science (learned in all the wisdom of the Egyptians).",
+            "type": "portrait",
+            "image": "../img/y5.jpg"
+        }
+    ]
+}
